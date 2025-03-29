@@ -1,0 +1,1 @@
+# Initialize the posts app package 
