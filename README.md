@@ -2,6 +2,9 @@
 
 A full-stack social media application with a Django backend and React frontend.
 
+# The video briefly describing the project and showing off the features:
+https://www.loom.com/share/479c5c3340014b31863c7077fb17bbe7?sid=23560933-faa5-4aa2-a26a-3b3b37521cf3
+
 ## Project Structure
 
 - **Frontend**: React + TypeScript application
